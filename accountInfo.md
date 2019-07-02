@@ -12,7 +12,6 @@
 
 > 阿里云Mysql
 
-* url:rm-bp14pr40f5196w803jo.mysql.rds.aliyuncs.com
 * 账号:sz
 * 密码:sz0512
 
